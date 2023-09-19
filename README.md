@@ -6,6 +6,9 @@
 - 숙소(???)로 이동 : 택시 30~40분
 
 # 01.14 (일)
-- 라 보케리아 (시장)
-  - [구글지도](https://maps.app.goo.gl/qXEM4EYXCBai9pRp6)
+- 람블라 거리
+  - [블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=withjoy79&logNo=221075731869)
+  - [구글지도](https://maps.app.goo.gl/2GUeyZ6rU5BCKyxJ8)
+
+# 01.15 (월)
 - 
