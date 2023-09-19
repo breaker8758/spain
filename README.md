@@ -7,8 +7,5 @@
 
 # 01.14 (일)
 - 라 보케리아 (시장)
-  - 라 보케리아 - 라 보케리아
-La Rambla, 91, 08001 Barcelona, 스페인
-+34 934 13 23 03
-https://maps.app.goo.gl/qXEM4EYXCBai9pRp6
+  - [구글지도](https://maps.app.goo.gl/qXEM4EYXCBai9pRp6)
 - 
