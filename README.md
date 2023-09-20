@@ -9,6 +9,13 @@
 
 # 01.14 (일)
 - 마드리드 시내
+  - 스페인 광장
+  - 마드리드 왕궁
+  - 마요르 광장
+  - 산 미겔 시장
+  - 솔 광장 (마드리드 중심부)
+    - [블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bambees&logNo=10182553243)
+  - 
 
 # 01.15 (월)
 - 마드리드 근교
