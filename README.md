@@ -9,13 +9,6 @@
 
 # 01.14 (일)
 - 마드리드 시내
-  - 스페인 광장
-  - 마드리드 왕궁
-  - 마요르 광장
-  - 산 미겔 시장
-  - 솔 광장 (마드리드 중심부)
-    - [블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bambees&logNo=10182553243)
-  - 
 
 # 01.15 (월)
 - 마드리드 근교
@@ -27,9 +20,7 @@
 - 몬세라트
 
 # 01.18 (목)
-- 람블라 거리
-  - [블로그](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=withjoy79&logNo=221075731869)
-  - [구글지도](https://maps.app.goo.gl/2GUeyZ6rU5BCKyxJ8)
+- 바르셀로나 시내
 <img width="100%" src="https://github.com/breaker8758/spain/assets/26866611/f026b25c-8a29-44d3-900a-709f85e5dac3"/>
 
 # 01.19 (금)
