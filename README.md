@@ -1,4 +1,4 @@
-<img src="https://github.com/breaker8758/spain/assets/26866611/00e73230-e197-471b-9048-c1795e41c44d" />
+![image](https://github.com/breaker8758/spain/assets/26866611/ebbbd46f-27ad-4bcd-9f0c-3b86c443fda7)<img src="https://github.com/breaker8758/spain/assets/26866611/00e73230-e197-471b-9048-c1795e41c44d" />
 
 # 01.13 (토)
 - 08:00 인천공항 도착
@@ -19,16 +19,22 @@
 
 # 01.16 (화)
 - 11:00 : 숙소 체크아웃
-- 사라고사로 이동 : 기차 1:30 소요
-- 15:00 : 숙소 체크인 (택시 ??분 소요)
+- 아토차 기차역으로 이동 (택시 20분 소요)
+  - [구글지도](https://maps.app.goo.gl/38txL6SfLFgCMZJTA)
+- 사라고사 Zaragoza-Delicias 기차역으로 이동 (기차 1:30 소요)
+  - [구글지도](https://maps.app.goo.gl/9pTfYiDGWhJD62tFA)
+- 15:00 : 숙소 체크인 (택시 20분 소요)
   - [구글지도](
 https://maps.app.goo.gl/UsQjpiLvKYQfm3V28)
 - 오후 : 사라고사 시내
 
 # 01.17 (수)
 - 11:00 : 숙소 체크아웃
-- 바르셀로나로 이동 : 기차 1:30 소요
-- 15:00 : 숙소 체크인 (택시 ??분 소요)
+- 사라고사 Zaragoza-Delicias 기차역으로 이동 (택시 20분 소요)
+  - [구글지도](https://maps.app.goo.gl/9pTfYiDGWhJD62tFA)
+- 바르셀로나 Barcelona-Sants 기차역으로 이동 (기차 1:30 소요)
+  - [구글지도](https://maps.app.goo.gl/AZVc2TpwEFEPn6dm9)
+- 15:00 : 숙소 체크인 (택시 30분 소요)
   - [구글지도](https://maps.app.goo.gl/SyuYave96L8FkM9m9
 )
 - 오후 : 바르셀로나 시내
