@@ -1,4 +1,4 @@
-![image](https://github.com/breaker8758/spain/assets/26866611/ebbbd46f-27ad-4bcd-9f0c-3b86c443fda7)<img src="https://github.com/breaker8758/spain/assets/26866611/00e73230-e197-471b-9048-c1795e41c44d" />
+<img src="https://github.com/breaker8758/spain/assets/26866611/00e73230-e197-471b-9048-c1795e41c44d" />
 
 # 01.13 (토)
 - 08:00 인천공항 도착
