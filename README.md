@@ -8,8 +8,7 @@
 - 20:30 바르셀로나 엘프라트 공항 출발 (국내선)
 - 22:00 마드리드 바라하스 공항 도착
 - 숙소 체크인 (택시 30분 소요)
-  - [구글지도](
-https://maps.app.goo.gl/SyuYave96L8FkM9m9)
+  - [구글지도](https://maps.app.goo.gl/sEf9jLQDs63Rh4Rh9)
 
 # 01.14 (일)
 - 하루종일 : 마드리드 시내
@@ -30,8 +29,8 @@ https://maps.app.goo.gl/UsQjpiLvKYQfm3V28)
 - 11:00 : 숙소 체크아웃
 - 바르셀로나로 이동 : 기차 1:30 소요
 - 15:00 : 숙소 체크인 (택시 ??분 소요)
-  - [구글지도](
-https://maps.app.goo.gl/EseausWYZC8y2G8m8)
+  - [구글지도](https://maps.app.goo.gl/SyuYave96L8FkM9m9
+)
 - 오후 : 바르셀로나 시내
 
 # 01.18 (목)
