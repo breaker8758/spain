@@ -45,7 +45,7 @@ https://maps.app.goo.gl/UsQjpiLvKYQfm3V28)
   - 이동수단
     - R5 기차 1시간 (Espanya 역)
     - 산악열차 20분 / 케이블카 5분 (택1)
-  - ※ [블로그](https://m.blog.naver.com/sesool/221335253313)
+  - ※ [블로그](http://holaspain.co.kr/bbs/board.php?bo_table=barcelona&wr_id=155)
 - 오후 : 바르셀로나 시내
 
 # 01.19 (금)
