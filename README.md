@@ -43,7 +43,7 @@ https://maps.app.goo.gl/UsQjpiLvKYQfm3V28)
 # 01.18 (목)
 - 오전 : 몬세라트
   - 이동수단
-    - 지하철 1시간 (Espanya 역)
+    - R5 기차 1시간 (Espanya 역)
     - 산악열차 20분 / 케이블카 5분 (택1)
   - ※ [블로그](https://m.blog.naver.com/sesool/221335253313)
 - 오후 : 바르셀로나 시내
