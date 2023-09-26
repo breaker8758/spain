@@ -46,7 +46,7 @@ https://maps.app.goo.gl/UsQjpiLvKYQfm3V28)
     - R5 국철 1시간 (Espanya 역)
     - 산악열차 20분 / 케이블카 5분 (택1)
   - ※ [블로그](http://holaspain.co.kr/bbs/board.php?bo_table=barcelona&wr_id=155)
-  - ※ 통합권 : 인당 3만원
+  - ※ 왕복 통합권 : 인당 3만원
 - 오후 : 바르셀로나 시내
 
 # 01.19 (금)
