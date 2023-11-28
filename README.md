@@ -25,7 +25,7 @@
 # 01.16 (화)
 - 11:00 : 숙소 체크아웃
 - 마드리드 아토차 기차역으로 이동 (택시 20분 소요)
-- 사라고사 Zaragoza-Delicias 기차역으로 이동 (기차 1:30 소요)
+- 11:30 : 사라고사 Zaragoza-Delicias 기차역으로 이동 (기차 1:30 소요)
 - 15:00 : 숙소 체크인 (택시 20분 소요)
   - [구글지도](
 https://maps.app.goo.gl/UsQjpiLvKYQfm3V28)
@@ -34,7 +34,7 @@ https://maps.app.goo.gl/UsQjpiLvKYQfm3V28)
 # 01.17 (수)
 - 11:00 : 숙소 체크아웃
 - 사라고사 Zaragoza-Delicias 기차역으로 이동 (택시 20분 소요)
-- 바르셀로나 Barcelona-Sants 기차역으로 이동 (기차 1:30 소요)
+- 12:52 : 바르셀로나 Barcelona-Sants 기차역으로 이동 (기차 1:30 소요)
 - 15:00 : 숙소 체크인 (택시 30분 소요)
   - [구글지도](https://maps.app.goo.gl/SyuYave96L8FkM9m9
 )
