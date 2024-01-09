@@ -17,10 +17,8 @@
 
 # 01.15 (월)
 - 오전 : 톨레도
-  - 이동수단 (택1)
-    - 기차 35분 (아토차 역) : 총 8.5만원
-    - 버스 1시간 (Plaza Eliptica 역) : 총 4만원
-      - [블로그](https://m.blog.naver.com/withjoy79/221572595022)
+  - 버스 1시간 (Plaza Eliptica 역)
+    - [블로그](https://m.blog.naver.com/withjoy79/221572595022)
 - 오후 : 마드리드 시내
 
 # 01.16 (화)
