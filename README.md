@@ -19,6 +19,7 @@
 - 오전 : 톨레도
   - 버스 1시간 (Plaza Eliptica 역)
     - [블로그](https://m.blog.naver.com/withjoy79/221572595022)
+  - Mazapan(마자판) : 만쥬 느낌의 디저트
 - 오후 : 마드리드 시내
 
 # 01.16 (화)
