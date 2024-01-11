@@ -16,10 +16,10 @@
 - 하루종일 : 마드리드 시내
 
 # 01.15 (월)
-- 오전 : 톨레도
-  - 버스 1시간 (Plaza Eliptica 역)
-    - [블로그](https://m.blog.naver.com/withjoy79/221572595022)
+- 09:30 : Atocha 역 도착 (지하철 or 택시)
+- 10:15 : 톨레도 renfe 출발
   - Mazapan(마자판) : 만쥬 느낌의 디저트
+- 미정 : Atocha 역 renfe 출발
 - 오후 : 마드리드 시내
 
 # 01.16 (화)
