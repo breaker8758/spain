@@ -21,6 +21,7 @@
   - Planta Baja는 0F(우리나라 1F), Planta Primera는 1F(우리나라 2F)
 - 10:15 : 톨레도 renfe 출발
   - Mazapan(마자판) : 만쥬 느낌의 디저트
+  - [시티 투어 버스](https://city-sightseeing.com/en/28/toledo/3429/toledo-magic-experience)
 - 미정 : Atocha 역 renfe 출발
 - 오후 : 마드리드 시내
 
